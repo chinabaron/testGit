@@ -16,5 +16,6 @@ package gittest;
 public class hellogit {
     public static void main(String[] args){
         System.out.println("hello github");
+        System.out.println("hello github");
     }
 }
